@@ -1,18 +1,10 @@
-@font-face {
-    font-family: "Nithya Ranjana";
-    src: url("/fonts/NithyaRanjanaDU-Regular.woff2") format("woff2"),
-        url("/fonts/NithyaRanjanaDU-Regular.woff") format("woff"),
-        url("NithyaRanjanaDU-Regular.otf") format("opentype");
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-}
+/* Nithya Ranjana font */
 
-/* Apply the font to the document */
-body,
-h1,
-h2,
-h3,
-p {
-    font-family: "Nithya Ranjana", serif;
+@font-face {
+  font-family: 'NithyaRanjana';
+  src:  url('https://cdn.staticdelivr.com/gh/callijatra/nithya-ranjana-webfont1/main/fonts/NithyaRanjanaDU-Regular.otf') format('otf'),
+        url('https://cdn.staticdelivr.com/gh/callijatra/nithya-ranjana-webfont1/main/fonts/NithyaRanjanaDU-Regular.woff2') format('woff2'),
+        url('https://cdn.staticdelivr.com/gh/callijatra/nithya-ranjana-webfont1/main/fonts/NithyaRanjanaDU-Regular.woff') format('woff'); /* Fallback format */
+  font-weight: 100;
+  font-display: swap; 
 }
