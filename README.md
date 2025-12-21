@@ -1,4 +1,4 @@
-Nithya Ranjana
+Nithya Ranjana ([Demo](https://callijatra.github.io/nithya-ranjana-webfont1/demo))
 ==============
 ![Nithya Ranjana Sample Image](https://github.com/EkType/Nithya-Ranjana/raw/385f8d73ea7061dde0598744db0d31b6e6a1a555/Promotion/NithyaRanjana.gif)
 
@@ -29,7 +29,7 @@ The font files can be downloaded from the [releases page.](https://github.com/Ek
 The Glyphsapp and UFO sources are provided. 
 > You can build the fonts using `fontmake` and `gftools` 
 
-### Usage
+### Usage ([Demo](https://callijatra.github.io/nithya-ranjana-webfont1/demo))
 
 **Step 1:** Declare Nithya Ranjana as font face in CSS desired file.
 
