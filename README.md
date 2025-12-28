@@ -1,4 +1,4 @@
-Nithya Ranjana ([Demo](https://callijatra.github.io/nithya-ranjana-webfont1/demo)) [Forked by Suyogyart]
+Nithya Ranjana ([Demo](https://callijatra.github.io/nithya-ranjana-webfont1/demo))
 ==============
 ![Nithya Ranjana Sample Image](https://github.com/EkType/Nithya-Ranjana/raw/385f8d73ea7061dde0598744db0d31b6e6a1a555/Promotion/NithyaRanjana.gif)
 
